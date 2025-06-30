@@ -1,7 +1,6 @@
 # CAPSTONE-PROJECT
 FINANCE MANAGEMENT SYSTEM
-FinanceManagementSystem
-
+KRISHNADHARSHINI BATCH 3 CSHARP TRAINING
 A simple C# console application to help users manage their personal expenses using a SQL Server database.
 
 * Add and delete users
